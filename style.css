@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: linear-gradient(#304FFE 0%, #BBDEFB 100%);
+    background: #ffffff;
 }
 
 .linepage {
@@ -8,4 +8,10 @@ body {
     background-color: aqua;
     width: 70px;
     margin: 8px auto;
+}
+
+.movie-header{
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 25px;
 }
